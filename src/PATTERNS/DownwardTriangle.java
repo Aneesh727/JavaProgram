@@ -1,3 +1,5 @@
+package PATTERNS;
+
 public class DownwardTriangle {
     public static void main(String[] args) {
         for(int i=4;i>=1;i--){

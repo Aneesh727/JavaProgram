@@ -1,3 +1,5 @@
+package PATTERNS;
+
 public class LeftTrianglePat {
     public static void main(String[] args) {
         int row = 4;
