@@ -1,5 +1,7 @@
 package STRING;
 
+import static java.lang.String.valueOf;
+
 public class StringMethods {
     public static void main(String[] args) {
         String s = "Welcome";
@@ -45,6 +47,8 @@ public class StringMethods {
         st = st.replaceAll("[^\\d]", "");
         System.out.println(st);
 
+//        String sname = "200";
+//        System.out.print(valueOf(sname)+666);
 
     }
 }
