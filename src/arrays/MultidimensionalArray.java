@@ -7,5 +7,6 @@ public class MultidimensionalArray {
         // {2nd dimension {3rd dimension}, {3rd dimension } 2nd dimension},
         // {2nd dimension{3rd dimension },{3rd dimension } 2nd dimension} 1st dimension}
         System.out.println(arr[1][1][2]);
+
     }
 }
